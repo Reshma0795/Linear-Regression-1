@@ -9,7 +9,7 @@ The internship includes several tasks which are as follows:
 
 
 ## Task 1 - Prediction using Supervised ML
-- 1.1- Predict the percentage of an student based on the number of study hours. 
-- 1.2 - What will be the predicted score if the student studies 9.25hrs/day?
+- Q.1.1- Predict the percentage of an student based on the number of study hours. 
+- Q.1.2 - What will be the predicted score if the student studies 9.25hrs/day?
 - This is a simple linear regression task as it involves only 2 variables. I have used Python for task.
 - Data source: http://bit.ly/w-data
