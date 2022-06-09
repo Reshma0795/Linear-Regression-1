@@ -1,4 +1,4 @@
-# The Sparks Foundation Repository contains the tasks I completed while working as a Data Science & Analytics Intern for the Sparks Foundation.
+## The Sparks Foundation Repository contains the tasks I completed while working as a Data Science & Analytics Intern for the Sparks Foundation.
 
 Internship Category - Data Science and Business Analytics
 Internship Duration - 1 month (1 June 2022 - 30 June 2022)
