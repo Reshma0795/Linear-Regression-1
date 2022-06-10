@@ -13,3 +13,7 @@ The internship includes several tasks which are as follows:
 - Q.1.2 - What will be the predicted score if the student studies 9.25hrs/day?
 - This is a simple linear regression task as it involves only 2 variables. I have used Python for task.
 - Data source: http://bit.ly/w-data
+
+## Task 2 - Prediction using Unsupervised ML
+- Q1 - From the given dataset, predict the optimal number of clusters and represent it visually
+- Data Source: https://bit.ly/3kXTdox
