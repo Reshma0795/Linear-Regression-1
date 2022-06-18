@@ -17,3 +17,9 @@ The internship includes several tasks which are as follows:
 ## Task 2 - Prediction using Unsupervised ML
 - Q1 - From the given dataset, predict the optimal number of clusters and represent it visually
 - Data Source: https://bit.ly/3kXTdox
+
+## Task 3 - Exploratory Data Analysis on Retail Dataset
+- Performed 'Exploratory Data Analysis' on dataset 'SampleSuperstore'
+- Q1 - As a business manager, try to find out the weak areas where you can work to make profit.
+- Q2 - What all business problems can you derive by exploring the data?
+- Data Source: https://bit.ly/3i4rbWl
