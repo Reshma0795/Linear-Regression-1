@@ -23,3 +23,9 @@ The internship includes several tasks which are as follows:
 - Q1 - As a business manager, try to find out the weak areas where you can work to make profit.
 - Q2 - What all business problems can you derive by exploring the data?
 - Data Source: https://bit.ly/3i4rbWl
+
+## Task 4 - Exploratory Data Analysis on Global Terrorism Dataset
+- Performed 'Exploratory Data Analysis' on dataset 'Global Terrorism'
+- Q1 - As a security/defense analyst, try to find out the hot zone of terrorism.
+- Q2 - What all security issues and insights can you derive from the EDA? 
+- Data Source: https://bit.ly/2TK5Xn5
